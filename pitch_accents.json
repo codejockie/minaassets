@@ -95,13 +95,6 @@
       "reading": "ざい"
     }
   ],
-  "〜務省": [
-    {
-      "altReading": null,
-      "pitchNumber": 0,
-      "reading": "むしょう"
-    }
-  ],
   "〜匹": [
     {
       "altReading": null,
@@ -349,6 +342,13 @@
       "altReading": null,
       "pitchNumber": 0,
       "reading": "てき"
+    }
+  ],
+  "〜省": [
+    {
+      "altReading": null,
+      "pitchNumber": 1,
+      "reading": "しょう"
     }
   ],
   "〜県": [
@@ -1176,6 +1176,16 @@
       "altReading": null,
       "pitchNumber": 0,
       "reading": "ごみばこ"
+    },
+    {
+      "altReading": null,
+      "pitchNumber": 3,
+      "reading": "ゴミばこ"
+    },
+    {
+      "altReading": null,
+      "pitchNumber": 0,
+      "reading": "ゴミばこ"
     }
   ],
   "ゴミ袋": [
@@ -1814,6 +1824,16 @@
       "altReading": null,
       "pitchNumber": 2,
       "reading": "おととし"
+    },
+    {
+      "altReading": null,
+      "pitchNumber": 0,
+      "reading": "いっさくねん"
+    },
+    {
+      "altReading": null,
+      "pitchNumber": 4,
+      "reading": "いっさくねん"
     }
   ],
   "一昨日": [
@@ -10471,6 +10491,16 @@
       "altReading": null,
       "pitchNumber": 0,
       "reading": "ほくふう"
+    },
+    {
+      "altReading": null,
+      "pitchNumber": 0,
+      "reading": "きたかぜ"
+    },
+    {
+      "altReading": null,
+      "pitchNumber": 4,
+      "reading": "きたかぜ"
     }
   ],
   "匠": [
@@ -10940,6 +10970,21 @@
       "altReading": null,
       "pitchNumber": 3,
       "reading": "みなみかぜ"
+    },
+    {
+      "altReading": null,
+      "pitchNumber": 0,
+      "reading": "なんぷう"
+    },
+    {
+      "altReading": null,
+      "pitchNumber": 1,
+      "reading": "なんぷう"
+    },
+    {
+      "altReading": null,
+      "pitchNumber": 2,
+      "reading": "はえ"
     }
   ],
   "単に": [
@@ -13058,6 +13103,11 @@
     {
       "altReading": "名",
       "pitchNumber": 0,
+      "reading": "ひん"
+    },
+    {
+      "altReading": null,
+      "pitchNumber": 1,
       "reading": "ひん"
     }
   ],
@@ -25503,6 +25553,20 @@
       "reading": "すえつける"
     }
   ],
+  "捻出": [
+    {
+      "altReading": null,
+      "pitchNumber": 0,
+      "reading": "ねんしゅつ"
+    }
+  ],
+  "捻挫": [
+    {
+      "altReading": null,
+      "pitchNumber": 0,
+      "reading": "ねんざ"
+    }
+  ],
   "掃く": [
     {
       "altReading": null,
@@ -29510,6 +29574,11 @@
       "altReading": null,
       "pitchNumber": 4,
       "reading": "ひがしアジア"
+    },
+    {
+      "altReading": null,
+      "pitchNumber": 4,
+      "reading": "ひがしあじあ"
     }
   ],
   "東亜": [
@@ -41482,6 +41551,11 @@
   "紅葉": [
     {
       "altReading": null,
+      "pitchNumber": 0,
+      "reading": "こうよう"
+    },
+    {
+      "altReading": null,
       "pitchNumber": 1,
       "reading": "もみじ"
     }
@@ -42544,6 +42618,13 @@
       "altReading": null,
       "pitchNumber": 0,
       "reading": "りょくしょく"
+    }
+  ],
+  "緑茶": [
+    {
+      "altReading": null,
+      "pitchNumber": 0,
+      "reading": "りょくちゃ"
     }
   ],
   "線": [
@@ -46924,6 +47005,11 @@
     }
   ],
   "西ヨーロッパ": [
+    {
+      "altReading": null,
+      "pitchNumber": 5,
+      "reading": "にしよーろっぱ"
+    },
     {
       "altReading": null,
       "pitchNumber": 5,
